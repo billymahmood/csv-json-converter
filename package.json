@@ -1,0 +1,23 @@
+{
+  "name": "csv-json-converter",
+  "version": "0.0.1",
+  "description": "A node module for converting CSV data to JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cein-Markey/csv-json-converter.git"
+  },
+  "author": "Cein Markey <hi@ceinmarkey.co.uk> (http://cein.irish)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cein-Markey/csv-json-converter/issues"
+  },
+  "homepage": "https://github.com/Cein-Markey/csv-json-converter#readme",
+  "devDependencies": {
+    "chai": "^3.4.0",
+    "mocha": "^2.3.3"
+  }
+}

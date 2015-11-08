@@ -6,3 +6,10 @@ N/A
 
 ## Development
 Currently in development and unstable
+
+## Installation
+    $ cd /path/to/project
+    $ npm install csv-json-converter
+
+## Requirements
+Node and npm
